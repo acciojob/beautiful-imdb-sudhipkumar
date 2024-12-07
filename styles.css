@@ -1,2 +1,19 @@
 
 /* Your CSS Code here. */
+.moviePic{
+	height:400px;
+	width:360px;
+	opacity:86%;
+}
+
+.movieDetail{
+	font-size:20px;
+	color:black;
+}
+
+article{
+	position:absolute;
+	text-align:center;
+	top:2px;
+	left:50%;
+}
